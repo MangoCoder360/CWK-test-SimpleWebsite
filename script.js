@@ -1,3 +1,3 @@
 function clicked() {
-  alert("The background is the hex code #00FF00")
+  alert("The background color is the hex code #00FF00")
 }
